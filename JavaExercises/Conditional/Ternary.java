@@ -12,5 +12,6 @@ public class Ternary {
         String result =  n%2 == 0 ? "Even" : "Odd";
 
         System.out.println("The number is "+result);
+        sc.close();
     }
 }
